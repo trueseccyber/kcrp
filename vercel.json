@@ -1,0 +1,13 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://oxfordshirecountyoxfd.my.canva.site/kcrp"
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://oxfordshirecountyoxfd.my.canva.site/kcrp:path*"
+    }
+  ]
+}
