@@ -1,5 +1,6 @@
 
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
       "source": "/",
@@ -7,7 +8,7 @@
     },
     {
       "source": "/:path*",
-      "destination": "https://oxfordshirecountyoxfd.my.canva.site/kcrp/:path*"
+      "destination": "https://oxfordshirecountyoxfd.my.canva.site/:path*"
     }
   ]
 }
