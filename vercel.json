@@ -7,7 +7,7 @@
     },
     {
       "source": "/:path*",
-      "destination": "https://oxfordshirecountyoxfd.my.canva.site/kcrp:path*"
+      "destination": "https://oxfordshirecountyoxfd.my.canva.site/kcrp/:path*"
     }
   ]
 }
